@@ -17,4 +17,4 @@ Architecture Diagram
 ![architecture-diagram](https://github.com/farhanahraf03/cs218-midterm/assets/42094234/c67311a7-f77d-41af-9683-2412830e544b)
 
 Video Demo
--
+- https://drive.google.com/file/d/1nT7P0Bh9K7HDEILSf0o_ZD4nj14bI9Uw/view?usp=sharing
